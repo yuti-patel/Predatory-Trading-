@@ -9,3 +9,5 @@ The code is distributed into 3 parts and the user needs to manually interact wit
 3. Open the file webscrapper.ipynb and fill in the details for the company
 4. Upload the file recover_points.csv on google colab and run the file
 5. it returns a file called results.csv which contains the sentiment analysis
+
+The zip file ACC.zip contains the results for the project. 
